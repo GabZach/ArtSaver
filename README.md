@@ -7,10 +7,6 @@ customize these much more than Apple's built-in slide show screensaver.
 It is mostly geared towards people who want to see their collection of beautiful images 
 as large as possible, and with some information which one of their images they are seeing.
 
-You can see all of ArtSaver's options at 
-    System Preferences ⟶ Desktop & Screen Savers ⟶ ArtSaver ⟶ Screen Saver Options
-If you wonder what an option means, look at the tooltip by hovering the mouse over the control.
-
 I think, ArtSaver also handles huge image collections, which can be scattered about 
 many subfolders, better than Apple's built-in picture screen saver, 
 because it builds a database of the images and stores it on disk,
