@@ -11,3 +11,7 @@ I think, ArtSaver also handles huge image collections, which can be scattered ab
 many subfolders, better than Apple's built-in picture screen saver, 
 because it builds a database of the images and stores it on disk,
 rather than scanning the folders every time it gets invoked.
+
+There is no code here, I merely use Github for a bit of bug/issue tracking, in case people prefer that.
+
+You can find an executable of ArtSaver here: http://www.cs.uni-bremen.de/~zach/software/ArtSaver/index.html 
